@@ -18,3 +18,5 @@ Imports:
     stringr,
     tibble,
     usethis
+URL: https://github.com/abjur/datajudScraper
+BugReports: https://github.com/abjur/datajudScraper/issues
