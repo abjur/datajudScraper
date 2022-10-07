@@ -1,0 +1,9 @@
+.Rproj.user
+data-raw/csv/*
+data-raw/zip/*
+data-raw/municipios/*
+data-raw/ojs/*
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
