@@ -5,7 +5,7 @@
 \alias{ojs}
 \title{ojs}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 20836 rows and 12 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 21480 rows and 13 columns.
 }
 \usage{
 ojs
